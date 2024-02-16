@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 const Navbar = () => {
   return (
@@ -6,7 +6,7 @@ const Navbar = () => {
         <div className="container m-auto px-4 py-6">
             <div className="flex justify-between items-center" >
                 <div>
-                    <h1 className="font-bold text-xl">Sandaruwan Warnasooriya</h1>
+                    <h1 className="font-bold  text-purple-300 text-2xl">Sandaruwan Warnasooriya</h1>
                 </div>
 
                 <div>
